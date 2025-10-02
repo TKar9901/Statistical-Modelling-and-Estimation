@@ -1,5 +1,5 @@
 # Statistical-Modelling-and-Estimation
- Y2 Stats Coursework No.1
+ Y2 Stats Coursework No.1 investigating a) rainfall distribution statistically and b) modelling and evaluating global happiness via World Happiness Report data
 
 Project Includes:
 - coursework instruction pdf
